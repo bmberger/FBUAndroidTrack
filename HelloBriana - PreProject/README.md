@@ -5,7 +5,7 @@ An app that takes in a user's custom input and displays it. You can also toggle 
 from black and white to color. You can also reset to the original state by clicking on the background.
 
 ### App Walk-though
-<img src="" width=200><br>
+![](HelloBrianaDemo.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
